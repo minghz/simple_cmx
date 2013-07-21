@@ -1,0 +1,51 @@
+/* default css for cmx page
+ * Jul 21, 2013
+ * Minghua Zhao
+ */
+
+body {
+	color: #FFF;
+	background: #000;
+    font: 100% Verdana, Arial, Helvetica, sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color:#FFFFFF;
+}
+
+a:hover{
+	color: #888;
+}
+.nav{
+	display: inline;
+	margin: 30px;
+}
+
+.cmx{
+	margin: 30px;
+}
+
+.fb-like{
+	margin: 10px;
+}
+
+.box{
+	margin: 50px;
+	text-align:center;
+}
+
+.linka{
+	color:#FFFFFF;
+	margin:auto;
+	vertical-align: middle;
+	line-height: 30px;
+	text-align:center;
+	width: 100px;
+	height: 30px;
+	cursor:pointer;
+}
+
+.linka:hover{
+	background:#333333;
+}

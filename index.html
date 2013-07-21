@@ -1,0 +1,13 @@
+<?php
+  require_once("PHP/template.php");
+  
+  $page = new Page("Templates/default.html");
+  
+  $page->replace_tags(array(
+    "comic" => "content/comic.php",
+    "nav" => "content/nav.php"
+
+  ));
+  
+  $page->output();
+?>
