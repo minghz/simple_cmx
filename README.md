@@ -1,12 +1,13 @@
-############################################
+----------------------------
 Author: Minghua Zhao (http://minghz2.comxa.com/)
 Date: Jul 21, 2013
 
 ----------------------------
 Description:
 
-CMX is a simple bundle that allows anyone to create
-a webpage and publish their comics on the web.
+CMX is a simple template that allows someone to
+create a webpage and publish their comic pages on their
+own website.
 
 ----------------------------
 Features:
@@ -24,4 +25,4 @@ folder. Number your files in ascending order (1.jpg, 2.jpg, 3.jpg, etc)
 
 That's it!
 
-############################################
+----------------------------

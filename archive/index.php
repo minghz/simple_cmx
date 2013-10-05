@@ -1,5 +1,7 @@
 <html>
-  	<head>
+
+    <head>
+
     		<title>cmx</title>
     		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
     		<link rel="stylesheet" href="/css/default.css" type="text/css" />
@@ -18,8 +20,10 @@
 			
 			</script>
     		
-  	</head>
-  	<body>
+    </head>
+
+    <body>
+
   		<div class="box">
   			<h3>
   				All Comics

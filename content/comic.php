@@ -17,7 +17,6 @@
 
     $cur_page = curPageURL();
 
-    #nav.php?cur=current_file&othervar=othervalue
     $var = array();
     preg_match("/(.*)\?(.*)/", $cur_page, $var);
 
