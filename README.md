@@ -12,10 +12,10 @@ own website.
 ----------------------------
 Features:
 
-Archive page - shows all comic pages ever posted
-Navigation menu - naigating forward and backward along pages
-Facebook sharing - anyone can like or share one page of the comic
-Simplicity - code is very easy to read, and easily customizable
+- Archive page - shows all comic pages ever posted
+- Navigation menu - naigating forward and backward along pages
+- Facebook sharing - anyone can like or share one page of the comic
+- Simplicity - code is very easy to read, and easily customizable
 
 ----------------------------
 How To Use:
